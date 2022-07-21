@@ -18,7 +18,7 @@
 - Aula 3
   Integrçao com Firebase
 
-![](./guthub/rockethelp_capa.png)
+![](./github/rockethelp_capa.png)
 ===
 
 ### :computer: Tecnologias:
